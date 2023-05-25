@@ -1,0 +1,17 @@
+{
+  "name": "sehengfeljs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^113.0.0",
+    "jasmine": "^5.0.0",
+    "selenium-webdriver": "^4.9.2"
+  }
+}
